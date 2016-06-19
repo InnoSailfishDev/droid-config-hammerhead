@@ -1,6 +1,6 @@
 # These and other macros are documented in
 # ../droid-configs-device/droid-configs.inc
-%define device i9300
+%define device i9305
 %define vendor samsung
 %define vendor_pretty Samsung
 %define device_pretty Galaxy SIII
